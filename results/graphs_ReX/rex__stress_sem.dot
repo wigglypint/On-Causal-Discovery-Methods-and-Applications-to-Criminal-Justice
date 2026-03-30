@@ -1,0 +1,9 @@
+strict digraph {
+Vibrationlevel;
+StressSeverity;
+Temperature;
+Pressure;
+StressSeverity -> Vibrationlevel;
+StressSeverity -> Temperature;
+Pressure -> StressSeverity;
+}

@@ -1,0 +1,5 @@
+rainfall_mm,fertilizer_kg,soil_quality,crop_yield
+0,0,0,1
+0,0,1,0
+0,0,0,1
+0,0,0,0

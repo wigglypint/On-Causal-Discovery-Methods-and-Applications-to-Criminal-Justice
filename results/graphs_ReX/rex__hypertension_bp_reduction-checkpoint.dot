@@ -1,0 +1,7 @@
+strict digraph {
+drugdosagemg;
+systolicbpreduction;
+hypertensionstage;
+drugdosagemg -> systolicbpreduction;
+systolicbpreduction -> hypertensionstage;
+}

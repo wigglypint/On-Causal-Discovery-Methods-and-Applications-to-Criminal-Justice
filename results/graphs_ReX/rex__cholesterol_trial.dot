@@ -1,0 +1,9 @@
+strict digraph {
+age;
+drugdose;
+metabolicrate;
+cholesterolreduction;
+age -> drugdose;
+age -> cholesterolreduction;
+drugdose -> cholesterolreduction;
+}

@@ -1,0 +1,5 @@
+machine_condition,maintenance_intensity,performance_metric,warranty_cost
+0,1,1,0
+0,0,1,0
+0,0,0,1
+0,0,0,0

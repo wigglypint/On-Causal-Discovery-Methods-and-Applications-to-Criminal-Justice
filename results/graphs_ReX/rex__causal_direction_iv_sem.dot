@@ -1,0 +1,7 @@
+strict digraph {
+X2;
+Z2;
+Z1;
+X1;
+X1 -> X2;
+}

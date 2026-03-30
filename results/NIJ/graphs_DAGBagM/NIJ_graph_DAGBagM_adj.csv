@@ -1,0 +1,22 @@
+,Gender_F,Race_BLACK,Age_at_Release_18-22,Age_at_Release_23-27,Age_at_Release_28-32,Age_at_Release_33-37,Age_at_Release_38-42,Age_at_Release_43-47,Age_at_Release_48 or older,Gang_Affiliated,Prior_Arrest_Episodes_Felony_high,Prior_Arrest_Episodes_Property_high,Prior_Arrest_Episodes_Drug_high,Prior_Conviction_Episodes_Felony_high,Percent_Days_Employed,Jobs_Per_Year,Avg_Days_per_DrugTest,DrugTests_Cocaine_Positive,Delinquency_Reports_high,Supervision_Risk_Score_First,Recidivism_Within_3years
+Gender_F,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Race_BLACK,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Age_at_Release_18-22,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,1
+Age_at_Release_23-27,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,1,1
+Age_at_Release_28-32,1,1,0,1,0,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1
+Age_at_Release_33-37,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+Age_at_Release_38-42,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Age_at_Release_43-47,0,0,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+Age_at_Release_48 or older,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0,1,1,1,0,1,1
+Gang_Affiliated,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1
+Prior_Arrest_Episodes_Felony_high,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1
+Prior_Arrest_Episodes_Property_high,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,1
+Prior_Arrest_Episodes_Drug_high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prior_Conviction_Episodes_Felony_high,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1
+Percent_Days_Employed,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Jobs_Per_Year,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1
+Avg_Days_per_DrugTest,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+DrugTests_Cocaine_Positive,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delinquency_Reports_high,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+Supervision_Risk_Score_First,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,1,0,1
+Recidivism_Within_3years,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0

@@ -1,0 +1,8 @@
+strict digraph {
+losscostestimate;
+emissionlevels;
+climateindex;
+baselinetemp;
+climateindex -> losscostestimate;
+baselinetemp -> emissionlevels;
+}

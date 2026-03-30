@@ -1,0 +1,10 @@
+LiM Experiment Results
+
+
+k=5:
+  incompat_score: 0.94
+  disagreement %: 4.7
+
+k=10:
+  incompat_score: 5.6
+  disagreement %: 6.222222222222222

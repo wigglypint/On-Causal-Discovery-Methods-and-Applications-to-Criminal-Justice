@@ -1,0 +1,7 @@
+strict digraph {
+exerciseminutes;
+caloriesburned;
+restingheartrate;
+caloriesburned -> exerciseminutes;
+restingheartrate -> caloriesburned;
+}

@@ -1,0 +1,7 @@
+strict digraph {
+infectionseverityscore;
+antibioticdosagemg;
+bacterialcountdecrease;
+bacterialcountdecrease -> infectionseverityscore;
+bacterialcountdecrease -> antibioticdosagemg;
+}

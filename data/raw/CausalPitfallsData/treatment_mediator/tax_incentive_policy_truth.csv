@@ -1,0 +1,7 @@
+consumer_demand_index,baseline_retail_sales,tax_incentive,consumer_spending,sales_growth,irrelevant_index
+0,0,1,1,1,0
+0,0,1,1,1,0
+0,0,0,1,1,0
+0,0,0,0,1,0
+0,0,0,0,0,0
+0,0,0,0,0,0

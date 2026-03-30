@@ -1,0 +1,5 @@
+baseline_health,dosage_mg,drug_concentration,health_improvement
+0,0,0,1
+0,0,1,0
+0,0,0,1
+0,0,0,0

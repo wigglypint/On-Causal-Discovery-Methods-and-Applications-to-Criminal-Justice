@@ -1,0 +1,9 @@
+strict digraph {
+inflammationmarker;
+age;
+drugdose;
+painscorereduction;
+age -> drugdose;
+age -> painscorereduction;
+drugdose -> painscorereduction;
+}

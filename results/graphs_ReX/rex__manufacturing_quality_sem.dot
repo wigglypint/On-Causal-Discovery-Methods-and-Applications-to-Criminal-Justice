@@ -1,0 +1,8 @@
+strict digraph {
+machinecondition;
+maintenanceintensity;
+warrantycost;
+performancemetric;
+machinecondition -> maintenanceintensity;
+performancemetric -> warrantycost;
+}

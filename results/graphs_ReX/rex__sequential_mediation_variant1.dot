@@ -1,0 +1,19 @@
+strict digraph {
+educationalintervention;
+copingstrategyimprovement;
+randomnoise;
+baselinecognitivescore;
+mentalhealthscore;
+schoolqualityscore;
+socialsupportenhancement;
+socioeconomicstatus;
+educationalintervention -> copingstrategyimprovement;
+copingstrategyimprovement -> mentalhealthscore;
+copingstrategyimprovement -> baselinecognitivescore;
+mentalhealthscore -> socialsupportenhancement;
+mentalhealthscore -> schoolqualityscore;
+mentalhealthscore -> baselinecognitivescore;
+socialsupportenhancement -> baselinecognitivescore;
+socioeconomicstatus -> mentalhealthscore;
+socioeconomicstatus -> schoolqualityscore;
+}

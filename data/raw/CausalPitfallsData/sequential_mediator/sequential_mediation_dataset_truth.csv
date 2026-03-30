@@ -1,0 +1,9 @@
+educational_intervention,coping_strategy_improvement,social_support_enhancement,mental_health_score,socioeconomic_status,school_quality_score,baseline_cognitive_score,random_noise
+0,1,0,0,0,0,0,0
+0,0,1,1,0,0,0,0
+0,0,0,1,0,0,0,0
+0,0,0,0,0,0,0,0
+1,1,1,1,0,0,0,0
+1,1,1,1,0,0,0,0
+1,1,1,1,0,0,0,0
+0,0,0,0,0,0,0,0

@@ -1,0 +1,14 @@
+strict digraph {
+baselineinvestmentrate;
+infrastructurespend;
+constructioncostindex;
+investmentreturn;
+irrelevantindex;
+constructionactivity;
+baselineinvestmentrate -> irrelevantindex;
+constructioncostindex -> irrelevantindex;
+investmentreturn -> infrastructurespend;
+irrelevantindex -> investmentreturn;
+constructionactivity -> irrelevantindex;
+constructionactivity -> investmentreturn;
+}

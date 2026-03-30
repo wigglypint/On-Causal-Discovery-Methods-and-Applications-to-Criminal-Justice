@@ -1,0 +1,13 @@
+strict digraph {
+tutoringround1;
+tutoringround2;
+posttestimproved;
+struggled;
+pretestscore;
+noise;
+passedfinal;
+tutoringround1 -> pretestscore;
+tutoringround2 -> pretestscore;
+posttestimproved -> pretestscore;
+pretestscore -> struggled;
+}

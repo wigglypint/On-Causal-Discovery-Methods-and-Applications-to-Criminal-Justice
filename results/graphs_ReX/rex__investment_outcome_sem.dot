@@ -1,0 +1,8 @@
+strict digraph {
+investmentamount;
+investorsatisfaction;
+risktolerance;
+portfolioreturn;
+risktolerance -> investmentamount;
+portfolioreturn -> investorsatisfaction;
+}

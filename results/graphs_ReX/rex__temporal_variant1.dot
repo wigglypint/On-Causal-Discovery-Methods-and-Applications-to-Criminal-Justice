@@ -1,0 +1,9 @@
+strict digraph {
+Usersignups;
+Userinvites;
+time;
+period;
+Userinvites -> time;
+time -> Usersignups;
+period -> time;
+}

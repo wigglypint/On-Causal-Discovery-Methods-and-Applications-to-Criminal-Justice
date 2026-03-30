@@ -1,0 +1,16 @@
+strict digraph {
+weeklydietadherencehours;
+finalweightloss;
+baselinebmi;
+receivednutritionprogram;
+motivationscore;
+baselineenergylevel;
+unrelatedrandomvariable;
+weeklydietadherencehours -> finalweightloss;
+baselinebmi -> finalweightloss;
+receivednutritionprogram -> baselinebmi;
+receivednutritionprogram -> baselineenergylevel;
+receivednutritionprogram -> weeklydietadherencehours;
+receivednutritionprogram -> finalweightloss;
+baselineenergylevel -> finalweightloss;
+}

@@ -1,0 +1,8 @@
+usage_hours,baseline_error,patch_v1,post_patch_error,patch_v2,failure,random_noise
+0,0,0,0,1,1,0
+0,0,0,0,1,1,0
+0,0,0,0,1,1,0
+0,0,0,0,1,1,0
+0,0,0,0,0,1,0
+0,0,0,0,0,0,0
+0,0,0,0,0,0,0

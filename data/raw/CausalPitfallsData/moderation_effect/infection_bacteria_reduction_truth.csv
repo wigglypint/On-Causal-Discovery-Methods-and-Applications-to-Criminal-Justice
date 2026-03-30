@@ -1,0 +1,4 @@
+infection_severity_score,antibiotic_dosage_mg,bacterial_count_decrease
+0,1,1
+0,0,1
+0,0,0

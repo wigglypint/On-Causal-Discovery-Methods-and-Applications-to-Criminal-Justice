@@ -1,0 +1,7 @@
+strict digraph {
+pageviews;
+clickthroughs;
+adrevenue;
+pageviews -> adrevenue;
+clickthroughs -> adrevenue;
+}

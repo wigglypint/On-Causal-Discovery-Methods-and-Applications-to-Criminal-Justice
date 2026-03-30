@@ -1,0 +1,15 @@
+strict digraph {
+employmentgrowth;
+employerconfidence;
+baselineemploymenttrend;
+trainingprogram;
+irrelevantindex;
+labormarketvolatility;
+employmentgrowth -> trainingprogram;
+employerconfidence -> irrelevantindex;
+employerconfidence -> labormarketvolatility;
+employerconfidence -> employmentgrowth;
+baselineemploymenttrend -> irrelevantindex;
+irrelevantindex -> employmentgrowth;
+labormarketvolatility -> irrelevantindex;
+}

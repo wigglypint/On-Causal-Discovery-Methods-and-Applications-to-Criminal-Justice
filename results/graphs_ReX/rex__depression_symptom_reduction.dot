@@ -1,0 +1,7 @@
+strict digraph {
+depressionseverityindex;
+symptomscoredecrease;
+therapyhoursperweek;
+symptomscoredecrease -> depressionseverityindex;
+symptomscoredecrease -> therapyhoursperweek;
+}
